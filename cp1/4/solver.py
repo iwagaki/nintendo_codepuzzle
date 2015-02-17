@@ -10,4 +10,5 @@ while True:
     if ''.join(bs) == "ITT TI I T TIii":
         break
 
+print ''.join(prev)
 print decode_morse(''.join(prev))

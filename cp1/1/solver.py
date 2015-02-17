@@ -2,7 +2,7 @@
 
 i = 0
 
-while(True):
+while True:
     if pow(i, 17) % 3569 == 915:
         print i
         break
